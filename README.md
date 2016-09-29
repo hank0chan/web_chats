@@ -1,4 +1,7 @@
 # WebConnectV5d1 （项目更名为：web_chats）
+
+## 更新情况：持续开发中。。后台架构test用例搭建完毕，从持久层到业务层到api接口层的设计范式提交完毕。。
+
 ### 说明：
 #### 整体来说，这个测试项目也可以作为一个Maven + Spring + SpringMVC + Mybatis的开发范例！
 #### 在数据持久层采用mybatis配置开发的方式，由一个抽象类MybatisRepository类及其实现类DataRepository类组成，并且两个类通过Spring配置文件的方式注入IOC容器中。
